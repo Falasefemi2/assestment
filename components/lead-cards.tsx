@@ -89,7 +89,7 @@ export function LeadCards() {
                             <div>
                                 <p className="text-sm font-medium">Partnership opportunity for Fabricom</p>
                                 <p className="text-xs text-muted-foreground">Fabricom • $3,000,000 • 15 days to close</p>
-                                <Button variant="link" className="h-auto p-0 text-xs">Prepare me for Fabricom's key stakeholder meeting</Button>
+                                <Button variant="link" className="h-auto p-0 text-xs">Prepare me for Fabricom&apos;s key stakeholder meeting</Button>
                             </div>
                             <Button size="icon" variant="ghost" className="ml-auto h-6 w-6">
                                 <ArrowUpRight className="h-4 w-4" />
